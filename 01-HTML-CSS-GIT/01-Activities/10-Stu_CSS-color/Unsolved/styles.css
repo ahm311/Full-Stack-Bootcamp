@@ -1,1 +1,8 @@
-/* Add your styles here */
+#banner {
+    color: aqua;
+    background-color: black;
+}
+
+p {
+    color:aliceblue;
+}
